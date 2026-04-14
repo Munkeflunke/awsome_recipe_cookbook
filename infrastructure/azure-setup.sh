@@ -32,7 +32,7 @@ done
 
 # Configuration variables - CUSTOMIZE THESE
 RESOURCE_GROUP="recipe-cookbook-rg"
-LOCATION="norwayeast"  # Change to your preferred region (e.g., "eastus", "northeurope")
+LOCATION="France Central"  # Change to your preferred region (e.g., "eastus", "northeurope")
 NGINX_VM_NAME="recipe-cookbook-nginx-vm"
 BACKEND_VM_NAME="recipe-cookbook-backend-vm"
 VM_SIZE="Standard_B1s"  # Change to "Standard_B2s" for better performance
