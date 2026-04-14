@@ -3,7 +3,7 @@ Demo DevOps repository for use in teachings in It-architechture, cloud and agil 
 
 This is the "Awsome recipe cookbook" repository. It is not meant for production as it contains several security vulnerabilities and problematic parts on purpose.
 
-## Nginx Proxy (proxy) branch
+## Nginx Proxy (proxy) branchee
 
 You're currently on the **proxy** branch, which demonstrates the use of nginx proxy and backend run through a docker-compose file.
 
